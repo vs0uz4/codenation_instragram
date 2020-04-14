@@ -47,3 +47,10 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 
 ### Versão Desktop:
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-12/screenshot-aula-02-desktop.jpg)
+
+
+## Demo
+
+Foi feito o deploy da aplicação na plataforma Zeit, e o link de acesso é o descriminado logo abaixo:
+
+https://codenation-instragram.now.sh/
